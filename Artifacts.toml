@@ -1,0 +1,143 @@
+[[UDUNITS]]
+arch = "aarch64"
+git-tree-sha1 = "94c2e893a80bb67f3306458fa8df0a6ce8c9cec5"
+os = "macos"
+
+    [[UDUNITS.download]]
+    sha256 = "4a6b494c1b8d6dc947b22cc4342ee1a8a21581f15427d419d38155677cb3f59a"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.aarch64-apple-darwin.tar.gz"
+[[UDUNITS]]
+arch = "aarch64"
+git-tree-sha1 = "f8dfd7723a3d6e30b5b95c8199bc52def6aebbe2"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "c27dc837f3c573dae42d4a0221242d98c987b8a88ebd6c13404a121cd1275c62"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.aarch64-linux-gnu.tar.gz"
+[[UDUNITS]]
+arch = "aarch64"
+git-tree-sha1 = "cd95f81166547b5872d91599ae709dd330d11b33"
+libc = "musl"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "4612d92e998a02c5c709f53b4b33aea0ea43ef1c8c1348fe7e9206b8d36808ab"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.aarch64-linux-musl.tar.gz"
+[[UDUNITS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d053d4da5da73b0a63edaf022c4813c23c3a355c"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "35f3f4782fa24b26cf3299bb10a92afd68f62f54c7e2bc30cc53afa635f11a0d"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.armv6l-linux-gnueabihf.tar.gz"
+[[UDUNITS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "17eb3767e996e98c004236f3f3f78f2cac60a159"
+libc = "musl"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "6fc806d51252c4a6e50a73d392cf8335f04d99714c803dc433863d3d90d60e68"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.armv6l-linux-musleabihf.tar.gz"
+[[UDUNITS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "964c3ae90b8013831e129ab027f9232f994e5f88"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "9aa9f3f20281a48ba74744f4ac4db5d392c42799ab9d98d4b2b163991a15910f"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.armv7l-linux-gnueabihf.tar.gz"
+[[UDUNITS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3de33b325d2276a3323db59fbd76e55132aae261"
+libc = "musl"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "5bc06e7391ad5a88757d78d65240dfb00a566aed9b216e87dc55d582744c46df"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.armv7l-linux-musleabihf.tar.gz"
+[[UDUNITS]]
+arch = "i686"
+git-tree-sha1 = "c14b4f74e7ce177efb5825ddd11542c95606c680"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "0f29c6f917adc50f072ea7cabfa7763d29875d1837c1942205144d306cc2252b"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.i686-linux-gnu.tar.gz"
+[[UDUNITS]]
+arch = "i686"
+git-tree-sha1 = "77aafc9ee82a29dc7cfb6caa6ba39b5161ca347c"
+libc = "musl"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "7955e591d48fe5fcbd06fa4181ca0a494de790b30bfb5b6271b2ed2821e2ec2d"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.i686-linux-musl.tar.gz"
+[[UDUNITS]]
+arch = "i686"
+git-tree-sha1 = "18f1bd1278b095ae2ebee6eefbb7449a9435c331"
+os = "windows"
+
+    [[UDUNITS.download]]
+    sha256 = "1b20bf164fe854cc586cdd8bbc58e2ce932d0c31ba1a71f8e3add0a4dcf1852c"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.i686-w64-mingw32.tar.gz"
+[[UDUNITS]]
+arch = "powerpc64le"
+git-tree-sha1 = "ed0e675480eeea03413f8115ee75f4e8eedfe3f2"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "e150661cbdb4341f56ec44450aeaca6a5cba56412074da7d046c9a91b2661474"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.powerpc64le-linux-gnu.tar.gz"
+[[UDUNITS]]
+arch = "x86_64"
+git-tree-sha1 = "21cc5970ad0ad693e00e180a14dd284b74ecf45e"
+os = "macos"
+
+    [[UDUNITS.download]]
+    sha256 = "2202e6d52fffd42001a17c79cf27295b3e86c343f4e3a9dfb169299e98f49f1a"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.x86_64-apple-darwin.tar.gz"
+[[UDUNITS]]
+arch = "x86_64"
+git-tree-sha1 = "5f2c87164cb91d28b949f44807f7b9c7dcba4bab"
+libc = "glibc"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "40add70a4b3ae6ce1a6c0431661b177aff988be242e3f858fc903bdd1f10ef05"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.x86_64-linux-gnu.tar.gz"
+[[UDUNITS]]
+arch = "x86_64"
+git-tree-sha1 = "5aee16d369284a1be53d155673adeec14b4154ef"
+libc = "musl"
+os = "linux"
+
+    [[UDUNITS.download]]
+    sha256 = "205668b45fb22afb5a60e60534dbdad99939bd5e6489d8dd6b4437f2679ff745"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.x86_64-linux-musl.tar.gz"
+[[UDUNITS]]
+arch = "x86_64"
+git-tree-sha1 = "a0fbcca27720be325af030f5d34ba6a82d0d590b"
+os = "freebsd"
+
+    [[UDUNITS.download]]
+    sha256 = "b62a917e646d4e2ef68a2863413dda81453a6e102da8d2a9f78d1fa1842e7222"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.x86_64-unknown-freebsd.tar.gz"
+[[UDUNITS]]
+arch = "x86_64"
+git-tree-sha1 = "543d16a4d4eaa915970c15ec525c1aa5a536a7b2"
+os = "windows"
+
+    [[UDUNITS.download]]
+    sha256 = "5677ff137d5407b6e24f9184040be1d31cf7d2636bbbb0042f0e579e754f1307"
+    url = "https://github.com/JuliaBinaryWrappers/UDUNITS_jll.jl/releases/download/UDUNITS-v2.2.28+0/UDUNITS.v2.2.28.x86_64-w64-mingw32.tar.gz"
